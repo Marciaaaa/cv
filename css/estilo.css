@@ -1,0 +1,78 @@
+h1{
+	color: #db5c0d;
+	font-size: 60px;
+	font-weight: all;
+	text-align: center;
+	font-family: 'Handlee', cursive;
+}
+
+body{
+	background-color: #ffff99;
+	font-family: 'Handlee', cursive;
+}
+
+h2{
+	color: #538440;
+	text-align: center;
+	font-size: 35px;
+}
+
+h3{
+	font-family: verdana;
+	color: #685232;
+	font-size: 25px;
+	font-family: 'Handlee', cursive;
+}
+
+img{
+	
+	max-width: 100%
+}
+div{
+	background-color: #ffdb82;
+}
+
+ul{
+	font-size: 25px;
+	list-style: none;
+}
+
+p{
+	font-size: 20px;
+	font-style: italic;
+}
+
+#izquierda{
+	width: 30%;
+	float: left;
+	position: fixed;
+}
+
+#derecha{
+	width: 65%;
+	float: right;
+}
+
+#Presentación,
+#Formación,
+#Experiencia{
+	padding-left: 25px;
+	padding-bottom: 25px;
+	margin: 50px;
+	padding-right: 25px;
+	border: solid;
+	background-color: #e0c686;
+}
+
+.titulo{
+	border-bottom: solid #d19a10;
+}
+a{
+	text-decoration: none;
+}
+ul{
+	list-style: none;
+}
+a:hover {
+	color: #ffb702;
+}
